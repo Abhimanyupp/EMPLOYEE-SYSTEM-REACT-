@@ -1,0 +1,33 @@
+          
+
+
+
+                              EMS FRONTEND CREATION
+                     ...........................................
+
+
+
+
+
+            1.Create a nerw project - npx create-react-app ems-frontend  
+            2.cd ems-frontend
+            3.code .
+            4.Clear the unwanted code
+            5. Run the project -npm start                
+            6.Install 3rd party packages
+                          1.font awesome  - npm i @fortawesome/fontawesome-free
+                          2.google fonts   - 
+                          3.react bootstrap/mdb bootstrap  - npm install react-bootstrap bootstrap,npm i mdb-react-ui-kit
+                          import into index.js
+                                  ->import 'mdb-react-ui-kit/dist/css/mdb.min.css';
+                                  -> import "@fortawesome/fontawesome-free/css/all.min.css";
+                          4.bootswatch  - 
+           7.Component Creation 
+                      -Admin
+                      -Add
+                      -View
+                      -Edit
+                      -PageNotFound         
+           8.Setup Path for Components
+              -react-router-dom  -> npm i react-router-dom  (library for redirection from page to page)   
+                 
